@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abendaoui
-- 👀 I’m interested in ... Learn programation
-- 🌱 I’m currently learning ...Some languages 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Learn Coding
+- 🌱 I’m currently learning ... nodejs
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
